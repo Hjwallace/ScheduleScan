@@ -4,7 +4,7 @@ First project with ruby. Given a list of classes, will scrape data and find rema
 
 TO GET LINKS FOR CLASSES
 -------------------------
-1.BSU Home Page -> Self Service Banner -> Student -> Course Catalog -> Search Availiable Class Offerings -> Find your class and grab the URL
+1. BSU Home Page -> Self Service Banner -> Student -> Course Catalog -> Search Availiable Class Offerings -> Find your class and grab the URL
 
 NOTE: Make sure you select the right course (double check the course number), it's very easy to select the right class
 
